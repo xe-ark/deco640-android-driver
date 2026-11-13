@@ -61,8 +61,8 @@ On Android, standard `hid-generic` drivers leave the 8 soft shortcut keys inacti
 ## Build & Run / Kurulum ve Çalıştırma
 
 ```bash
-git clone <repo-url>
-cd deco640-driver
+git clone https://github.com/emrekrl23/deco640-android-driver.git
+cd deco640-android-driver
 make
 ./start.sh 270
 ```
